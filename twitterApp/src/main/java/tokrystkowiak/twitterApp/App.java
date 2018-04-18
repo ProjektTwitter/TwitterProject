@@ -17,7 +17,7 @@ import twitter4j.TwitterFactory;
 import twitter4j.conf.ConfigurationBuilder;
 
 /**
- * Hello world!
+ * Hello world! OK
  *
  */
 public class App {
